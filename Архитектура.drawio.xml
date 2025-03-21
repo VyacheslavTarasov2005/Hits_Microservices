@@ -395,7 +395,7 @@
         <mxCell id="ahcVUTs9z5dhGZwUGoeV-167" value="DocumentService&lt;div&gt;[ASP.NET API]&lt;/div&gt;&lt;div&gt;Управление документами&lt;/div&gt;" style="html=1;whiteSpace=wrap;fillColor=#1ba1e2;fontColor=#ffffff;strokeColor=#006EAF;" vertex="1" parent="ahcVUTs9z5dhGZwUGoeV-109">
           <mxGeometry x="80" y="690" width="110" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="ahcVUTs9z5dhGZwUGoeV-170" value="DocumentsDB&lt;div&gt;[SQLServer]&lt;/div&gt;&lt;div&gt;Хранилище документов&lt;/div&gt;" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.database;whiteSpace=wrap;fillColor=#1ba1e2;fontColor=#ffffff;strokeColor=#006EAF;" vertex="1" parent="ahcVUTs9z5dhGZwUGoeV-109">
+        <mxCell id="ahcVUTs9z5dhGZwUGoeV-170" value="DocumentsDB&lt;div&gt;[PostgreSQL]&lt;/div&gt;&lt;div&gt;Хранилище документов&lt;/div&gt;" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.database;whiteSpace=wrap;fillColor=#1ba1e2;fontColor=#ffffff;strokeColor=#006EAF;" vertex="1" parent="ahcVUTs9z5dhGZwUGoeV-109">
           <mxGeometry x="82.5" y="828" width="105" height="80" as="geometry" />
         </mxCell>
         <mxCell id="ahcVUTs9z5dhGZwUGoeV-171" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="ahcVUTs9z5dhGZwUGoeV-109" source="ahcVUTs9z5dhGZwUGoeV-167" target="ahcVUTs9z5dhGZwUGoeV-170">
